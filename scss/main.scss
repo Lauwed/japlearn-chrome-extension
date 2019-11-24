@@ -1,0 +1,9 @@
+body {
+  background: salmon;
+}
+
+.main {
+  &--item {
+    color: blue;
+  }
+}
